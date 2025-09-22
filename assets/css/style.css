@@ -224,6 +224,7 @@ strong {
 a.lnk,
 .lnk {
   height: 22px;
+  margin-right: 20px;
   line-height: 22px;
   position: relative;
   display: inline-block;
@@ -238,7 +239,7 @@ a.lnk,
 
 a.lnk:after,
 .lnk:after {
-  margin-left: 20px;
+  margin-left: 5px;
   content: "\f061";
   position: relative;
   left: 0;
